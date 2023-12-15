@@ -1,6 +1,6 @@
 # Vespy-Reborn
 Remake of Vespy Logger. Added major improvements such as browser support, cookie decryption, undetectable, targets such as crypto wallets &amp; more.
-![image](https://github.com/Amittere1/Vespy-Reborn/assets/109173080/3fb566db-4c2d-4f93-ab84-4b3df9300273)
+![standard (1)](https://github.com/Amittere1/Vespy-Reborn/assets/109173080/2e79c52a-52aa-4948-b6d8-758281c44dcc)
 
 <img alt="Static Badge" src="https://img.shields.io/badge/build-passed-brightgreen">
 <img alt="Static Badge" src="https://img.shields.io/badge/VirusTotal-This%20file%20is%20safe%20to%20use-brightgreen">
