@@ -14,7 +14,7 @@ Remake of Vespy Logger. Added major improvements such as browser support, cookie
 ㅤ
 ㅤ
 ### ❗Note: Make sure to turn off windows defender or it won't work. This is because it is detected as a false positive due to the nature of the program
-### 🔑Password for extracting: gxv3
+### 🔑Password for extracting: 2023
 ㅤ
 ㅤ
 ## ⚠ Disclaimer
